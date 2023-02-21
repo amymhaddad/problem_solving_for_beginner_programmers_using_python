@@ -1,0 +1,15 @@
+7 Looking-Back Strategies:
+
+Strategy 1: Solve a problem in a different way
+
+Strategy 2: Add a constraint
+
+Strategy 3: Study the code of others
+
+Strategy 4: Teach yourself by studying your own code
+
+Strategy 5: Recycle programming problems
+
+Strategy 6: Apply what you’ve learned to previously solved problems
+
+Strategy 7: Get feedback  
